@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "祝祭",
+  "base_artist": "=LOVE",
+  "createdAt": "2026-02-20T12:06:43.932926Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Celebration (Movie Edit) [feat. Toko Miura] / 祝祭 (Movie Edit) feat.三浦透子",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/01_Celebration_(Movie_Edit)_[feat._Toko_Miura]___祝祭_(Movie_Edit)_feat.三浦透子_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "祝祭 (Movie Edit) feat.三浦透子",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/02_祝祭_(Movie_Edit)_feat.三浦透子_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "祝祭 (Movie edit)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/03_祝祭_(Movie_edit)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "祝祭",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/04_祝祭_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "祝祭 - Celebration (feat. Toko Miura)",
+      "artist": "Radwimps",
+      "has_synced": true,
+      "path": "select/05_祝祭_-_Celebration_(feat._Toko_Miura)_Radwimps.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "祝祭（Movie edit）",
+      "artist": "RADWIMPS feat. 三浦透子",
+      "has_synced": true,
+      "path": "select/06_祝祭(Movie_edit)_RADWIMPS_feat._三浦透子.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "祝祭（Movie edit）",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/07_祝祭(Movie_edit)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "祝祭（Movie edit）",
+      "artist": "RADWIMPS feat. Miura, Toko",
+      "has_synced": true,
+      "path": "select/08_祝祭(Movie_edit)_RADWIMPS_feat._Miura,_Toko.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "祝祭",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/09_祝祭_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "祝祭",
+      "artist": "sumika",
+      "has_synced": true,
+      "path": "select/10_祝祭_sumika.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "祝祭 (feat.三浦透子) [Movie edit]",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/11_祝祭_(feat.三浦透子)_[Movie_edit]_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "祝祭 (ft. 三浦透子)",
+      "artist": "RADWIMPS",
+      "has_synced": true,
+      "path": "select/12_祝祭_(ft._三浦透子)_RADWIMPS.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "祝祭",
+      "artist": "PEDRO",
+      "has_synced": true,
+      "path": "select/13_祝祭_PEDRO.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "祝祭",
+      "artist": "RADWIMPS feat. Toko Miura",
+      "has_synced": true,
+      "path": "select/14_祝祭_RADWIMPS_feat._Toko_Miura.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "祝祭",
+      "artist": "GLAY",
+      "has_synced": true,
+      "path": "select/15_祝祭_GLAY.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "祝祭",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/16_祝祭_=LOVE.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "祝祭",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/pl_01_祝祭_=LOVE.txt"
+    }
+  ]
+}
